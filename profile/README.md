@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!---
+---
 
 Space LEAF Corp — Humane Exploration for All Mankind
 
@@ -224,4 +222,4 @@ Where mankind explores not as conquerors, but as caretakers.
 
 This repository is the foundation of that future.
 
---->
+---
